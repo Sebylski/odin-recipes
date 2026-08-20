@@ -1,0 +1,1 @@
+First proper project, creating a site for recipes that contains a main index page, which will have a few links to recipes.
